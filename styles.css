@@ -2,5 +2,51 @@
     height: 300px;
 }
 .photo{
-    height: 600px;
+    height: 800px;
+}
+.centered{
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    font-family: lucida calligraphy;
+    color: rgb(114, 114, 114);
+    margin-top: 20px;
+}
+h3{
+    font-size: 65px;
+    color: rgb(114, 114, 114);
+    font-family: lucida; 
+}
+h5{
+    font-size: 50px;
+    color: rgb(114, 114, 114);
+    font-family: lucida; 
+}
+.logo{
+    height: 60px;
+}
+.personalphoto{
+    width: 600px;
+    margin-top: 20px;
+    border-radius: 20%;
+    height: 600px
+}
+.aboutme{
+    margin-top: 100px;
+}
+.info{
+    font-size: 25px;
+    color: rgb(114, 114, 114);
+    font-family: lucida; 
+}
+footer{
+    background-color: rgb(48, 48, 48);
+    height: 50px;
+    position:sticky;
+}
+.footer{
+    font-size: 20px;
+    color: white;
+    margin-left: 700px;
 }
